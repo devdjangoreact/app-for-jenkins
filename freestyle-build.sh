@@ -1,2 +1,2 @@
 npm --version
-noda --version
+node --version
